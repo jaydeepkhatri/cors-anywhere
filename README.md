@@ -3,7 +3,8 @@
 ## Installation
 
 ```sh
-git clone 
+git clone https://github.com/jaydeepkhatri/cors-anywhere.git
+cd cors-anywhere
 npm i
 npm start
 ```
